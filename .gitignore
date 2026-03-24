@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# Data (large files – never commit raw data to git)
+data/
+*.csv
+*.zip
+
+# Model binaries
+model/*.pkl
+model/*.joblib
+
+# Outputs (optional – remove if you want plots tracked)
+outputs/
+
+# Kaggle credentials
+.kaggle/
+kaggle.json
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
