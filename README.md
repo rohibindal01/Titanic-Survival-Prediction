@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction — Machine Learning Project
+# 🚢 Titanic Survival Prediction 
 
 A complete end-to-end ML pipeline that predicts Titanic passenger survival using the
 [Kaggle Titanic dataset](https://www.kaggle.com/competitions/titanic).
@@ -110,13 +110,7 @@ What happens:
 
 ---
 
-## 🚀 Push to GitHub — Step-by-Step
-
-See the [GitHub Push Guide](#-github-push-guide) section below.
-
----
-
-## 📈 Sample Results
+## 📈 Results
 
 Generated plots include:
 - Survival breakdown by class and sex
@@ -126,8 +120,3 @@ Generated plots include:
 - Confusion matrix for the best model
 - Feature importance bar chart
 
----
-
-## 📜 License
-
-MIT © 2024
